@@ -1,0 +1,1 @@
+You must create a trans database and import transaction.sql file
